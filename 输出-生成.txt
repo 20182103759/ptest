@@ -1,0 +1,6 @@
+﻿1>------ 已启动生成: 项目: ConsoleApplication1, 配置: Debug Win32 ------
+1>  stdafx.cpp
+1>  ConsoleApplication1.cpp
+1>  ConsoleApplication1.vcxproj -> C:\Users\HP301\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.exe
+1>  ConsoleApplication1.vcxproj -> C:\Users\HP301\Desktop\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
